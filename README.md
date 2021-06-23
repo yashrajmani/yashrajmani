@@ -1,4 +1,4 @@
-<a > <img align="center" src="https://github.com/yashrajmani/yashrajmani/blob/main/1605167632861.jpg"/></a>
+<a > <img align="center" src="https://github.com/yashrajmani/yashrajmani/blob/main/banner.jpg"/></a>
 
 <h1 align="center">Hello World ! 👋, I'm Yash Raj Mani</h1>
 <h3 align="center">I am pursuing Bachelors in Computer science and engineering from VIT Vellore.</h3>
