@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Mani</h1>
-<h3 align="center">I am pursing Btech CSE from VIT Vellore, A Learner from Bihar, India</h3>
+<h3 align="center">I am pursuing Bachelors in Computer science and engineering from VIT Vellore.</h3>
+  <h4 align="center">A Learner from Bihar, India</h4>
 
 - 📫 How to reach me **yashrajmani15946@gmail.com**
 
