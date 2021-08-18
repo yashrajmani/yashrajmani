@@ -27,5 +27,7 @@
 <!--
 //TODO: add more icons for languages
 add icons
+
+do it asap
 -->
 
