@@ -35,13 +35,13 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=yashrajmani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrajmani&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashrajmani&include_all_commits=true&count_private=true&show_icons=true&line_height=20"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrajmani&show_icons=true&locale=en&layout=compact" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajmani&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajmani" />
 </p>
 
 
