@@ -5,8 +5,10 @@
   <h4 align="center">A Learner from Bihar, India</h4>
 
 - 📫 How to reach me **yashrajmani15946@gmail.com**
+<a href="https://suvraneel.github.io" target="_blank"><img align='right' src="https://github.com/yashrajmani/yashrajmani/blob/main/readme_banner.gif" width="260" height="auto"></a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZRQ3h4sdiQrV2q-DBn2aEGGuFOne0Mrc/view?usp=sharing](https://drive.google.com/file/d/1ZRQ3h4sdiQrV2q-DBn2aEGGuFOne0Mrc/view?usp=sharing)
+
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/19Ne6Th8L1SqY8EFGPQo3OONK83Idh96v/view?usp=sharing)
 
 - ⚡ **Here to hustle**
 
