@@ -2,15 +2,17 @@
 
 <h1 align="center">Hello World ! 👋, I'm Yash Raj Mani</h1>
 <h3 align="center">I am pursuing Bachelors in Computer science and engineering from VIT Vellore.</h3>
-  <h4 align="center">A Learner from Bihar, India</h4>
+<h4 align="center">A Learner from Bihar, India</h4>
+<h4 align="center">
+<img src="https://github.com/yashrajmani/yashrajmani/blob/main/readme_banner.gif" align="center" width="260" height="auto">
+  </h4>
 
+
+
+- ⚡ **Here to hustle** 
 - 📫 How to reach me **yashrajmani15946@gmail.com**
-<a><img align='right' src="https://github.com/yashrajmani/yashrajmani/blob/main/readme_banner.gif" width="260" height="auto"></a>
-
-
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/19Ne6Th8L1SqY8EFGPQo3OONK83Idh96v/view?usp=sharing)
 
-- ⚡ **Here to hustle**
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
