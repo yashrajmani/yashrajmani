@@ -1,8 +1,7 @@
 <a > <img align="center" src="https://github.com/yashrajmani/yashrajmani/blob/main/banner_fin.jpg"/></a>
 
-<h1 align="center">Hello World ! 👋, I'm Yash Raj Mani</h1>
-<h3 align="center">I am pursuing Bachelors in Computer science and engineering from VIT Vellore.</h3>
-<h4 align="center">A Learner from Bihar, India</h4>
+<h1 align="center">Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Yash Raj Mani</h1>
+<h2 align="center">A Learner from Bihar, India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="40px" height="30px"> </h2>
 <h4 align="center">
 <img src="https://github.com/yashrajmani/yashrajmani/blob/main/readme_banner.gif" align="center" width="260" height="auto">
   </h4>
@@ -10,8 +9,9 @@
 
 
 - ⚡ **Here to hustle** 
-- 📫 How to reach me **yashrajmani15946@gmail.com**
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/19Ne6Th8L1SqY8EFGPQo3OONK83Idh96v/view?usp=sharing)
+- 📫 Reach me at:  **yashrajmani15946@gmail.com**
+- 📄 Check my **[RESUME](https://drive.google.com/file/d/13_PqF6e5EfShzZ-GbTzq8VQphrfB4wGC/view?usp=sharing)**
+- 👨‍💻 Visit : **https://yashrajmani.github.io/#/**
 
 
 <h3 align="left"> 🤝 Connect with me:</h3>
