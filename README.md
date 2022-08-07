@@ -6,8 +6,7 @@
 <img src="https://github.com/yashrajmani/yashrajmani/blob/main/readme_banner.gif" align="center" width="260" height="auto">
   </h4>
 
-
-
+## 😀 About Me :
 - ⚡ **Here to hustle** 
 - 📫 Reach me at:  **yashrajmani15946@gmail.com**
 - 📄 Check my **[RESUME](https://drive.google.com/file/d/13_PqF6e5EfShzZ-GbTzq8VQphrfB4wGC/view?usp=sharing)**
@@ -47,6 +46,15 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajmani&theme=tokyonight" />
 </p>
+
+
+
+## 🏆 GitHub Trophies :
+![](https://github-profile-trophy.vercel.app/?username=yashrajmani&theme=dark&no-frame=false&no-bg=true&margin-w=8)
+
+## 🤖 Dev Quote :
+<a align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)</a>
+
 
 <h3 align="center">
 ------ Views ------ 
