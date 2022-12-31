@@ -66,6 +66,6 @@
 
 
 <p align="center">
-<img src="https://github.com/yashrajmani/yashrajmani/blob/main/img.gif"></p>
+<img src="https://github.com/yashrajmani/yashrajmani/blob/main/img.gif" height=300px></p>
 <p>
 
