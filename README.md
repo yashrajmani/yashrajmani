@@ -10,7 +10,7 @@
 - ⚡ **Here to hustle** 
 - 📫 Reach me at:  **yashrajmani15946@gmail.com**
 - 📄 Check my **[RESUME](https://drive.google.com/file/d/13_PqF6e5EfShzZ-GbTzq8VQphrfB4wGC/view?usp=sharing)**
-- 👨‍💻 Visit : **https://yashrajmani.github.io/#/**
+- 👨‍💻 Visit : **https://www.yashrajmani.tech**
 
 
 <h3 align="left"> 🤝 Connect with me:</h3>
