@@ -6,7 +6,7 @@
 <img src="https://github.com/yashrajmani/yashrajmani/blob/main/readme_banner.gif" align="center" width="260" height="auto">
   </h4>
 
-## 😀 About Me :
+## About Me : 👨‍💻
 - ⚡ **Here to hustle** 
 - 📫 Reach me at:  **yashrajmani15946@gmail.com**
 - 📄 Check my **[RESUME](https://drive.google.com/file/d/13_PqF6e5EfShzZ-GbTzq8VQphrfB4wGC/view?usp=sharing)**
